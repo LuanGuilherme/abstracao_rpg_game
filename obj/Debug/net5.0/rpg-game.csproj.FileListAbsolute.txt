@@ -1,0 +1,16 @@
+/home/mintuser/workspace/rpg-game/bin/Debug/net5.0/rpg-game
+/home/mintuser/workspace/rpg-game/bin/Debug/net5.0/rpg-game.deps.json
+/home/mintuser/workspace/rpg-game/bin/Debug/net5.0/rpg-game.runtimeconfig.json
+/home/mintuser/workspace/rpg-game/bin/Debug/net5.0/rpg-game.runtimeconfig.dev.json
+/home/mintuser/workspace/rpg-game/bin/Debug/net5.0/rpg-game.dll
+/home/mintuser/workspace/rpg-game/bin/Debug/net5.0/ref/rpg-game.dll
+/home/mintuser/workspace/rpg-game/bin/Debug/net5.0/rpg-game.pdb
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.csproj.AssemblyReference.cache
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.GeneratedMSBuildEditorConfig.editorconfig
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.AssemblyInfoInputs.cache
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.AssemblyInfo.cs
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.csproj.CoreCompileInputs.cache
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.dll
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/ref/rpg-game.dll
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.pdb
+/home/mintuser/workspace/rpg-game/obj/Debug/net5.0/rpg-game.genruntimeconfig.cache
